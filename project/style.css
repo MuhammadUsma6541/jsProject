@@ -1,0 +1,33 @@
+div {
+    height: 500px;
+    width: 550px;
+}
+
+#userName {
+    width: 400px;
+    opacity: 0.5;
+}
+
+#password {
+    width: 400px;
+    opacity: 0.5;
+
+}
+
+#email {
+    width: 400px;
+    opacity: 0.5;
+
+}
+
+p {
+    padding-left: 68%;
+}
+
+@media screen and (max-width : 768px) {
+    body {
+        background-image: url(/styles/images/240_F_214263275_yFsy0Uk8QXxqp1vf31hHiJ0zKJwKdcoS.jpg);
+        background-size: 100%;
+    }
+
+}
